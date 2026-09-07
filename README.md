@@ -1,4 +1,4 @@
-# Decision Tree Model - Loan Campaign Analysis
+# Decision Tree Model 
 
 A machine learning project using Decision Tree algorithms to predict customer response to personal loan campaigns and optimize marketing strategies for financial institutions.
 
